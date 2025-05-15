@@ -7,7 +7,7 @@ This repository is a reflection of my **self-learning journey**, powered by **Da
 I also strengthened my skills through hands-on practice with different programs like Tableau Public, and Power BI. I was focusing on data visualization, exploring various ways to present insights effectively, from interactive dashboards in Tableau to creating compelling charts and graphs with Matplotlib and Seaborn in Python.
 Additionally, I practiced on platforms like HackerRank, SQL Bolt, and other interactive learning sites, tackling challenges that deepened my understanding of SQL and problem-solving techniques, while extensively working with MySQL Workbench to manage databases, execute queries, and refine my SQL expertise.
 
-Here, you’ll find a collection of my practice cases and mini-projects, covering everything from **data cleaning and exploratory analysis** to **visualizations, web scraping, SQL, statistics**, and other essential techniques in **Python**.
+Here, you’ll find a collection of my practice cases and mini-projects, covering everything from **data cleaning and exploratory analysis** to **visualizations, web scraping, statistics**, and other essential techniques in **Python**.
 Whether it's organizing messy datasets, uncovering insights, or scraping the web for useful information, this repo showcases my progress in mastering the essential skills for **data-driven problem solving**.
 
 ## 📌 Contents
