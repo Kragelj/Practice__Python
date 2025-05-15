@@ -10,7 +10,7 @@ Additionally, I practiced on platforms like HackerRank, SQL Bolt, and other inte
 Here, you’ll find a collection of my practice cases and mini-projects, covering everything from **data cleaning and exploratory analysis** to **visualizations, web scraping, statistics**, and other essential techniques in **Python**.
 Whether it's organizing messy datasets, uncovering insights, or scraping the web for useful information, this repo showcases my progress in mastering the essential skills for **data-driven problem solving**.
 
-## 📌 Contents
+## Contents
 
 This repository includes:
 - **Data Cleaning & Processing**: Handling missing values, duplicates, formatting, and transformations.
@@ -21,26 +21,26 @@ This repository includes:
   - Automatic File Sorter  
   - Web Scraping with BeautifulSoup  
 
-## 🔧 Techniques Covered
+## Techniques Covered
 
-### 📊 Data Handling
+### Data Handling
 - Reading different file types (`csv`, `xlsx`, etc.)
 - Dropping duplicates and columns
 - Applying transformations (`strip`, `replace`, `split`)
 - Handling missing values (`fillna`, `isnull`)
 - Indexing (`loc`, `iloc`)
 
-### 🧠 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Sorting and grouping (`groupby`, `sort_values`)
 - Statistical insights (`correlation`, `heatmap`, `unique values`)
 - Transposing and formatting (`dtypes`, `float format`)
 - Visualization with Matplotlib & Seaborn (`heatmap`, `plots`)
 
-### 🔍 Web Scraping
+### Web Scraping
 - Connecting to websites & extracting data (`BeautifulSoup`)
 - Using methods like `find`, `find_all`, `strip`
 - Exporting the extracted data
 
-### 📊 Machine Learning Basics
+### Machine Learning Basics
 - Sampling and training datasets (`sample`, `train dataset`, `test dataset`)
 - Model fitting and predictions (`fitting`, `predict`)
